@@ -1,0 +1,137 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Student {
+  studentId   Int     @id @default(autoincrement())
+  email       String  @unique
+  password    String
+  firstName   String
+  lastName    String
+  gender      String
+  semester    Int     @default(1)
+  yearOfEntry Int
+  isActive    Boolean @default(true)
+
+  advisorId    Int
+  departmentId Int
+
+  advisor      Lecturer     @relation(fields: [advisorId], references: [lecturerId])
+  department   Department   @relation(fields: [departmentId], references: [departmentId])
+  coursesTaken Enrollment[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Lecturer {
+  lecturerId Int     @id @default(autoincrement())
+  email      String  @unique
+  password   String
+  firstName  String
+  lastName   String
+  gender     String
+  isActive   Boolean @default(true)
+
+  departmentId Int
+
+  department      Department @relation(fields: [departmentId], references: [departmentId])
+  coursesGiven    Course[]
+  studentsAdvised Student[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Course {
+  courseId          Int     @id @default(autoincrement())
+  code              String  @unique
+  title             String
+  ects              Int
+  credit            Int
+  capacity          Int     @default(40)
+  isActive          Boolean @default(true)
+  gradeDistribution Int[]   @default([0, 45, 50, 55, 61, 71, 81, 91])
+  isOnline          Boolean @default(false)
+
+  lecturers       Lecturer[]
+  courseSchedules CourseSchedule[]
+  departments     DepartmentCourse[]
+  students        Enrollment[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model CourseSchedule {
+  courseScheduleId Int @id @default(autoincrement())
+  dayOfWeek        Int
+  startTime        Int
+  endTime          Int
+
+  courseId    Int
+  classroomId Int
+
+  course    Course    @relation(fields: [courseId], references: [courseId])
+  classroom Classroom @relation(fields: [classroomId], references: [classroomId])
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Department {
+  departmentId Int    @id @default(autoincrement())
+  title        String
+  faculty      String
+
+  lecturers Lecturer[]
+  courses   DepartmentCourse[]
+  students  Student[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Classroom {
+  classroomId Int    @id @default(autoincrement())
+  title       String @unique
+  capacity    Int
+
+  courseSchedules CourseSchedule[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model DepartmentCourse {
+  departmentId Int
+  courseId     Int
+  isElective   Boolean @default(false)
+  semester     Int
+
+  department Department @relation(fields: [departmentId], references: [departmentId])
+  course     Course     @relation(fields: [courseId], references: [courseId])
+
+  @@id([departmentId, courseId])
+}
+
+model Enrollment {
+  studentId     Int
+  courseId      Int
+  midtermGrade  Float?
+  midtermWeight Float   @default(0.3)
+  finalGrade    Float?
+  finalWeight   Float   @default(0.5)
+  otherGrades   Float[]
+  otherWeights  Float[] @default([0.2])
+
+  student Student @relation(fields: [studentId], references: [studentId])
+  course  Course  @relation(fields: [courseId], references: [courseId])
+
+  @@id([studentId, courseId])
+}

@@ -1,0 +1,352 @@
+[
+  {
+    "email": "yunus@gmail.com",
+    "password": "123456",
+    "firstName": "Yunus Emre",
+    "lastName": "Kepenek",
+    "gender": "Male",
+    "semester": 7,
+    "yearOfEntry": 2020,
+    "isActive": true
+  },
+  {
+    "email": "rumeysa@gmail.com",
+    "password": "123456",
+    "firstName": "Rümeysa",
+    "lastName": "Çiftçi",
+    "gender": "Female",
+    "semester": 7,
+    "yearOfEntry": 2020,
+    "isActive": true
+  },
+  {
+    "email": "furkan@gmail.com",
+    "password": "123456",
+    "firstName": "Furkan",
+    "lastName": "Adıktı",
+    "gender": "Male",
+    "semester": 7,
+    "yearOfEntry": 2020,
+    "isActive": true
+  },
+  {
+    "email": "savfet_tarik@gmail.com",
+    "password": "123456",
+    "firstName": "Tarık",
+    "lastName": "Yaraş",
+    "gender": "Male",
+    "semester": 7,
+    "yearOfEntry": 2020,
+    "isActive": true
+  },
+  {
+    "email": "yusufsecerdinabun@gmail.com",
+    "password": "123456",
+    "firstName": "Yusuf",
+    "lastName": "Seçerdin",
+    "gender": "Male",
+    "semester": 1,
+    "yearOfEntry": 2022,
+    "isActive": true
+  },
+  {
+    "email": "whoareyou@gmail.com",
+    "password": "123456",
+    "firstName": "Furkan",
+    "lastName": "Çelebi",
+    "gender": "Male",
+    "semester": 1,
+    "yearOfEntry": 2024,
+    "isActive": true
+  },
+  {
+    "email": "sümeyraahsen@gmail.com",
+    "password": "123456",
+    "firstName": "Sümeyra",
+    "lastName": "Ahsen",
+    "gender": "Female",
+    "semester": 3,
+    "yearOfEntry": 2022,
+    "isActive": true
+  },
+  {
+    "email": "ahmetfatih@gmail.com",
+    "password": "123456",
+    "firstName": "Ahmet",
+    "lastName": "Durmuş",
+    "gender": "Male",
+    "semester": 5,
+    "yearOfEntry": 2021,
+    "isActive": false
+  },
+  {
+    "email": "enisdestan61@gmail.com",
+    "password": "123456",
+    "firstName": "Enis",
+    "lastName": "Destan",
+    "gender": "Male",
+    "semester": 6,
+    "yearOfEntry": 2020,
+    "isActive": true
+  },
+  {
+    "email": "fıratcanbozkurt_helsinki@gmail.com",
+    "password": "123456",
+    "firstName": "Fırat Can",
+    "lastName": "Bozkurt",
+    "gender": "Male",
+    "semester": 2,
+    "yearOfEntry": 2022,
+    "isActive": true
+  },
+  {
+    "email": "hulyahulya75@gmail.com",
+    "password": "123456",
+    "firstName": "Hülya",
+    "lastName": "Ecevit",
+    "gender": "Female",
+    "semester": 5,
+    "yearOfEntry": 2021,
+    "isActive": true
+  },
+  {
+    "email": " mehmet.yilmaz@gmail.com",
+    "password": "123456",
+    "firstName": "Mehmet",
+    "lastName": "Yılmaz",
+    "gender": "Male",
+    "semester": 3,
+    "yearOfEntry": 2022,
+    "isActive": true
+  },
+  {
+    "email": "zeynep.demir101@gmail.com",
+    "password": "123456",
+    "firstName": "Zeynep",
+    "lastName": "Demir",
+    "gender": "Female",
+    "semester": 6,
+    "yearOfEntry": 2021,
+    "isActive": true
+  },
+  {
+    "email": "ceren.basar_27@gmail.com",
+    "password": "123456",
+    "firstName": "Ceren",
+    "lastName": "Başar",
+    "gender": "Female",
+    "semester": 1,
+    "yearOfEntry": 2024,
+    "isActive": false
+  },
+  {
+    "email": "serkan.yalcin_30@gmail.com",
+    "password": "123456",
+    "firstName": "Serkan",
+    "lastName": "Yalçın",
+    "gender": "Male",
+    "semester": 8,
+    "yearOfEntry": 2020,
+    "isActive": true
+  },
+  {
+    "email": "umut.yilmaz_32@gmail.com",
+    "password": "123456",
+    "firstName": "Umut",
+    "lastName": "Yılmaz",
+    "gender": "Male",
+    "semester": 4,
+    "yearOfEntry": 2022,
+    "isActive": true
+  },
+  {
+    "email": "selma.yildirim_33@gmail.com",
+    "password": "123456",
+    "firstName": "Selma",
+    "lastName": "KepYıldırımenek",
+    "gender": "Female",
+    "semester": 6,
+    "yearOfEntry": 2020,
+    "isActive": false
+  },
+  {
+    "email": "burak.aksoy_23@gmail.com",
+    "password": "123456",
+    "firstName": "Burak",
+    "lastName": "Aksoy",
+    "gender": "Male",
+    "semester": 3,
+    "yearOfEntry": 2023,
+    "isActive": true
+  },
+  {
+    "email": "ahmet.tekin_28@gmail.com",
+    "password": "123456",
+    "firstName": "Ahmet",
+    "lastName": "Tekin",
+    "gender": "Male",
+    "semester": 1,
+    "yearOfEntry": 2024,
+    "isActive": true
+  },
+  {
+    "email": "deniz.yildiz_36@gmail.com",
+    "password": "123456",
+    "firstName": "Deniz",
+    "lastName": "Yıldız",
+    "gender": "Male",
+    "semester": 6,
+    "yearOfEntry": 2020,
+    "isActive": true
+  },
+  {
+    "email": "zara.kaya_020@mail.com",
+    "password": "123456",
+    "firstName": "Zara",
+    "lastName": "Kaya",
+    "gender": "Female",
+    "semester": 5,
+    "yearOfEntry": 2021,
+    "isActive": false
+  },
+  {
+    "email": "ramazan.kaya_49@gmail.com",
+    "password": "123456",
+    "firstName": "Ramazan",
+    "lastName": "Kaya",
+    "gender": "Male",
+    "semester": 4,
+    "yearOfEntry": 2022,
+    "isActive": true
+  },
+  {
+    "email": " tuncay.aydin_51@gmail.com",
+    "password": "123456",
+    "firstName": "Tuncay",
+    "lastName": "Aydın",
+    "gender": "Male",
+    "semester": 6,
+    "yearOfEntry": 2020,
+    "isActive": true
+  },
+  {
+    "email": "yasmin@gmail.com",
+    "password": "123456",
+    "firstName": "Yasmin",
+    "lastName": "Burak",
+    "gender": "Female",
+    "semester": 4,
+    "yearOfEntry": 2022,
+    "isActive": false
+  },
+  {
+    "email": "ummu.karagoz_52@gmail.com",
+    "password": "123456",
+    "firstName": "Ümmü",
+    "lastName": "Karagöz",
+    "gender": "Female",
+    "semester": 7,
+    "yearOfEntry": 2020,
+    "isActive": true
+  },
+  {
+    "email": "veli.akin_53@gmail.com",
+    "password": "123456",
+    "firstName": "Veli",
+    "lastName": "Akın",
+    "gender": "Male",
+    "semester": 2,
+    "yearOfEntry": 2022,
+    "isActive": true
+  },
+  {
+    "email": "jale.ozdemir_42@gmail.com",
+    "password": "123456",
+    "firstName": "Jale",
+    "lastName": "Özdemir",
+    "gender": "Female",
+    "semester": 5,
+    "yearOfEntry": 2021,
+    "isActive": true
+  },
+  {
+    "email": "sevda.ates_50@gmail.com",
+    "password": "123456",
+    "firstName": "Sevda",
+    "lastName": "Ateş",
+    "gender": "Female",
+    "semester": 1,
+    "yearOfEntry": 2023,
+    "isActive": true
+  },
+  {
+    "email": "pinar.sonmez_48@gmail.com",
+    "password": "123456",
+    "firstName": "Pınar",
+    "lastName": "Sönmez",
+    "gender": "Female",
+    "semester": 4,
+    "yearOfEntry": 2022,
+    "isActive": true
+  },
+  {
+    "email": "oguz.caliskan_47@gmail.com",
+    "password": "123456",
+    "firstName": "Oğuz",
+    "lastName": "Çalışkan",
+    "gender": "Male",
+    "semester": 3,
+    "yearOfEntry": 2022,
+    "isActive": false
+  },
+  {
+    "email": "nihan.yaman_46@gmail.com",
+    "password": "123456",
+    "firstName": "Nihan",
+    "lastName": "Yaman",
+    "gender": "Female",
+    "semester": 2,
+    "yearOfEntry": 2022,
+    "isActive": true
+  },
+  {
+    "email": "tuna.ozkan_59@mail.com",
+    "password": "123456",
+    "firstName": "Tuna",
+    "lastName": "Özkan",
+    "gender": "Male",
+    "semester": 7,
+    "yearOfEntry": 2020,
+    "isActive": true
+  },
+  {
+    "email": "duygu.kaya_44@mail.com",
+    "password": "123456",
+    "firstName": "Duygu",
+    "lastName": "Kaya",
+    "gender": "Female",
+    "semester": 3,
+    "yearOfEntry": 2022,
+    "isActive": false
+  },
+  {
+    "email": "osman.yaman_55@mail.com",
+    "password": "123456",
+    "firstName": "Osman",
+    "lastName": "Yaman",
+    "gender": "Male",
+    "semester": 7,
+    "yearOfEntry": 2020,
+    "isActive": true
+  },
+  {
+    "email": "ruzgar.karagoz_57@mail.com",
+    "password": "123456",
+    "firstName": "Rüzgar",
+    "lastName": "Karagöz",
+    "gender": "Female",
+    "semester": 4,
+    "yearOfEntry": 2022,
+    "isActive": true
+  }
+]

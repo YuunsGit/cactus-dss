@@ -1,0 +1,242 @@
+[
+  {
+    "email": "ender.sevinc@gmail.com",
+    "password": "123456",
+    "firstName": "Ender",
+    "lastName": "Sevinç",
+    "gender": "Male",
+    "isActive": true
+  },
+  {
+    "email": "ismail.coskun@gmail.com",
+    "password": "123456",
+    "firstName": "İsmail",
+    "lastName": "Coşkun",
+    "gender": "Male",
+    "isActive": true
+  },
+  {
+    "email": "ayse.ozdemir@gmail.com",
+    "password": "123456",
+    "firstName": "Ayşe",
+    "lastName": "Özdemir",
+    "gender": "Female",
+    "isActive": true
+  },
+  {
+    "email": "atila.bostan@gmail.com",
+    "password": "123456",
+    "firstName": "Atila",
+    "lastName": "Bostan",
+    "gender": "Male",
+    "isActive": true
+  },
+  {
+    "email": "haldun.goktas@gmail.com",
+    "password": "123456",
+    "firstName": "Halim Haldun",
+    "lastName": "Göktaş",
+    "gender": "Male",
+    "isActive": true
+  },
+  {
+    "email": "yusuf.seçerdin@gmail.com",
+    "password": "123456",
+    "firstName": "Yusuf",
+    "lastName": "Seçerdin",
+    "gender": "Male",
+    "isActive": true
+  },
+  {
+    "email": "deniz.yavuz@gmail.com",
+    "password": "123456",
+    "firstName": "Deniz",
+    "lastName": "Yavuz",
+    "gender": "Male",
+    "isActive": true
+  },
+  {
+    "email": "esma.donmez@gmail.com",
+    "password": "123456",
+    "firstName": "Esma",
+    "lastName": "Dönmez",
+    "gender": "Female",
+    "isActive": true
+  },
+  {
+    "email": "ala.eleyan@gmail.com",
+    "password": "123456",
+    "firstName": "Ala",
+    "lastName": "Eleyan",
+    "gender": "Male",
+    "isActive": true
+  },
+  {
+    "email": "ercument.karapinar@gmail.com",
+    "password": "123456",
+    "firstName": "Ercüment",
+    "lastName": "Karapınar",
+    "gender": "Male",
+    "isActive": true
+  },
+  {
+    "email": "yavuz.demir@gmail.com",
+    "password": "123456",
+    "firstName": "Yavuz",
+    "lastName": "Demir",
+    "gender": "Male",
+    "isActive": true
+  },
+  {
+    "email": "hakan.caglar@gmail.com",
+    "password": "123456",
+    "firstName": "Hakan",
+    "lastName": "Çağlar",
+    "gender": "Male",
+    "isActive": true
+  },
+  {
+    "email": "mert.ozarar@gmail.com",
+    "password": "123456",
+    "firstName": "Mert",
+    "lastName": "Özarar",
+    "gender": "Male",
+    "isActive": true
+  },
+  {
+    "email": "yuksel.arslan@gmail.com",
+    "password": "123456",
+    "firstName": "Yüksel",
+    "lastName": "Arslan",
+    "gender": "Male",
+    "isActive": true
+  },
+  {
+    "email": "serkan.karatas@gmail.com",
+    "password": "123456",
+    "firstName": "Serkan",
+    "lastName": "Karataş",
+    "gender": "Male",
+    "isActive": true
+  },
+  {
+    "email": "berrin.senturk@gmail.com",
+    "password": "123456",
+    "firstName": "Berrin",
+    "lastName": "Şentürk",
+    "gender": "Female",
+    "isActive": true
+  },
+  {
+    "email": "sarper.alkan@gmail.com",
+    "password": "123456",
+    "firstName": "Saper",
+    "lastName": "Alkan",
+    "gender": "Male",
+    "isActive": true
+  },
+  {
+    "email": "aysen.ozbay@gmail.com",
+    "password": "123456",
+    "firstName": "Ayşen",
+    "lastName": "Özbay",
+    "gender": "Female",
+    "isActive": true
+  },
+  {
+    "email": "burcu.devrim@gmail.com",
+    "password": "123456",
+    "firstName": "Burcu",
+    "lastName": "Devrim",
+    "gender": "Female",
+    "isActive": true
+  },
+  {
+    "email": "ibrahim.yilmaz@gmail.com",
+    "password": "123456",
+    "firstName": "İbrahim",
+    "lastName": "Yılmaz",
+    "gender": "Male",
+    "isActive": true
+  },
+  {
+    "email": "cem.meydan@gmail.com",
+    "password": "123456",
+    "firstName": "Cem Harun",
+    "lastName": "Meydan",
+    "gender": "Male",
+    "isActive": true
+  },
+  {
+    "email": "ayse.saki@gmail.com",
+    "password": "123456",
+    "firstName": "Ayşe",
+    "lastName": "Saki",
+    "gender": "Female",
+    "isActive": true
+  },
+  {
+    "email": "handan.akkas@gmail.com",
+    "password": "123456",
+    "firstName": "Handan",
+    "lastName": "Akkaş",
+    "gender": "Female",
+    "isActive": true
+  },
+  {
+    "email": "sema.yurdesen@gmail.com",
+    "password": "123456",
+    "firstName": "Sema",
+    "lastName": "Yurdeşen",
+    "gender": "Female",
+    "isActive": true
+  },
+  {
+    "email": "aziz.balci@gmail.com",
+    "password": "123456",
+    "firstName": "Aziz",
+    "lastName": "Balcı",
+    "gender": "Male",
+    "isActive": true
+  },
+  {
+    "email": "pelin.karaca@gmail.com",
+    "password": "123456",
+    "firstName": "Pelin",
+    "lastName": "Karaca",
+    "gender": "Female",
+    "isActive": true
+  },
+  {
+    "email": "nilufer.ercan@gmail.com",
+    "password": "123456",
+    "firstName": "Nilüfer",
+    "lastName": "Ercan",
+    "gender": "Female",
+    "isActive": true
+  },
+  {
+    "email": "ekin.kosegil@gmail.com",
+    "password": "123456",
+    "firstName": "Ekin",
+    "lastName": "Kösegil",
+    "gender": "Female",
+    "isActive": true
+  },
+  {
+    "email": "hakan.koni@gmail.com",
+    "password": "123456",
+    "firstName": "Hakan",
+    "lastName": "Köni",
+    "gender": "Male",
+    "isActive": true
+  },
+  {
+    "email": "yelda.yenel@gmail.com",
+    "password": "123456",
+    "firstName": "Yelda",
+    "lastName": "Yenel",
+    "gender": "Female",
+    "isActive": true
+  }
+]

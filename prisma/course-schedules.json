@@ -1,0 +1,235 @@
+[
+  {
+    "dayOfWeek": 1,
+    "startTime": 9,
+    "endTime": 12,
+    "courseId": "10",
+    "classroomId": "1"
+  },
+  {
+    "dayOfWeek": 2,
+    "startTime": 11,
+    "endTime": 13,
+    "courseId": "10",
+    "classroomId": "21"
+  },
+  {
+    "dayOfWeek": 1,
+    "startTime": 13,
+    "endTime": 15,
+    "courseId": "13",
+    "classroomId": "4"
+  },
+
+  {
+    "dayOfWeek": 2,
+    "startTime":9,
+    "endTime": 10,
+    "courseId": "17",
+    "classroomId": "19"
+  },
+  {
+    "dayOfWeek": 2,
+    "startTime": 14,
+    "endTime": 16,
+    "courseId": "16",
+    "classroomId": "8"
+  },
+  {
+    "dayOfWeek": 4,
+    "startTime": 11,
+    "endTime": 14,
+    "courseId": "14",
+    "classroomId": "10"
+  },
+  {
+    "dayOfWeek": 5,
+    "startTime": 9,
+    "endTime": 11,
+    "courseId": "14",
+    "classroomId": "27"
+  },
+  {
+    "dayOfWeek": 1,
+    "startTime": 16,
+    "endTime": 18,
+    "courseId": "13",
+    "classroomId": "11"
+  },
+  {
+    "dayOfWeek": 3,
+    "startTime": 11,
+    "endTime": 13,
+    "courseId": "13",
+    "classroomId": "11"
+  },
+  {
+    "dayOfWeek": 5,
+    "startTime": 14,
+    "endTime": 16,
+    "courseId": "12",
+    "classroomId": "30"
+  },
+  {
+    "dayOfWeek": 5,
+    "startTime": 17,
+    "endTime": 18,
+    "courseId": "11",
+    "classroomId": "30"
+  },
+  {
+    "dayOfWeek": 5,
+    "startTime": 11,
+    "endTime": 13,
+    "courseId": "72",
+    "classroomId": "17"
+  },
+  {
+    "dayOfWeek": 5,
+    "startTime": 11,
+    "endTime": 12,
+    "courseId": "101",
+    "classroomId": "28"
+  },
+  {
+    "dayOfWeek": 4,
+    "startTime": 9,
+    "endTime": 11,
+    "courseId": "101",
+    "classroomId": "20"
+  },
+  {
+    "dayOfWeek": 1,
+    "startTime": 9,
+    "endTime": 12,
+    "courseId": "124",
+    "classroomId": "26"
+  },
+  {
+    "dayOfWeek": 4,
+    "startTime": 15,
+    "endTime": 18,
+    "courseId": "125",
+    "classroomId": "9"
+  },
+
+  {
+    "dayOfWeek": 5,
+    "startTime": 11,
+    "endTime": 14,
+    "courseId": "126",
+    "classroomId": "5"
+  },
+  {
+    "dayOfWeek": 3,
+    "startTime": 15,
+    "endTime": 18,
+    "courseId": "127",
+    "classroomId": "19"
+  },
+  {
+    "dayOfWeek": 3,
+    "startTime": 15,
+    "endTime": 18,
+    "courseId": "129",
+    "classroomId": "7"
+  },
+  {
+    "dayOfWeek": 4,
+    "startTime": 15,
+    "endTime": 18,
+    "courseId": "130",
+    "classroomId": "28"
+  },
+  {
+    "dayOfWeek": 1,
+    "startTime": 9,
+    "endTime": 12,
+    "courseId": "1",
+    "classroomId": "1"
+  },
+  {
+    "dayOfWeek": 2,
+    "startTime": 11,
+    "endTime": 13,
+    "courseId": "1",
+    "classroomId": "30"
+  },
+  {
+    "dayOfWeek": 1,
+    "startTime": 12,
+    "endTime": 14,
+    "courseId": "7",
+    "classroomId": "2"
+  },
+  {
+    "dayOfWeek": 2,
+    "startTime": 9,
+    "endTime": 10,
+    "courseId": "9",
+    "classroomId": "8"
+  },
+  {
+    "dayOfWeek": 2,
+    "startTime": 14,
+    "endTime": 16,
+    "courseId": "8",
+    "classroomId": "11"
+  },
+  {
+    "dayOfWeek": 3,
+    "startTime": 9,
+    "endTime": 11,
+    "courseId": "3",
+    "classroomId": "16"
+  },
+  {
+    "dayOfWeek": 3,
+    "startTime": 11,
+    "endTime": 13,
+    "courseId": "3",
+    "classroomId": "21"
+  },
+  {
+    "dayOfWeek": 4,
+    "startTime": 9,
+    "endTime": 11,
+    "courseId": "3",
+    "classroomId": "21"
+  },
+  {
+    "dayOfWeek": 4,
+    "startTime": 11,
+    "endTime": 14,
+    "courseId": "5",
+    "classroomId": "28"
+  },
+  {
+    "dayOfWeek": 5,
+    "startTime": 9,
+    "endTime": 11,
+    "courseId": "5",
+    "classroomId": "28"
+  },
+  {
+    "dayOfWeek": 5,
+    "startTime": 11,
+    "endTime": 14,
+    "courseId": "6",
+    "classroomId": "22"
+  },
+  {
+    "dayOfWeek": 5,
+    "startTime": 14,
+    "endTime": 15,
+    "courseId": "2",
+    "classroomId": "29"
+  },
+  {
+    "dayOfWeek": 1,
+    "startTime": 14,
+    "endTime": 17,
+    "courseId": "100",
+    "classroomId": "18"
+  }
+]
